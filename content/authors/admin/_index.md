@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Final-year Computer Science Undergraduate (BTech) 
+role: Final-year BTech, Computer Science Undergraduate 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Shreemati Nathibai Damodar Thackersey Women's University, Mumbai.
+  url: "https://sndt.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,10 +30,10 @@ education:
   - course: BTech in Computer Science & Technology
     institution: Usha Mittal Institute of Technology, SNDT Women's University
     year: 2021 (present)
-  - course: MEng in Artificial Intelligence
+  - course: Higher Secondary School - CBSE
     institution: Kendriya Vidyalaya AFS Thane
     year: 2016
-  - course: BSc in Artificial Intelligence
+  - course: Senior Secondary School - CBSE
     institution: Kendriya Vidyalaya OFA Ambernath
     year: 2014
 
