@@ -30,10 +30,10 @@ education:
   - course: BTech in Computer Science & Technology
     institution: Usha Mittal Institute of Technology, SNDT Women's University
     year: 2021 (present)
-  - course: Higher Secondary School - CBSE
+  - course: Higher Secondary School, CBSE
     institution: Kendriya Vidyalaya AFS Thane
     year: 2016
-  - course: Senior Secondary School - CBSE
+  - course: Senior Secondary School, CBSE
     institution: Kendriya Vidyalaya OFA Ambernath
     year: 2014
 
@@ -47,18 +47,18 @@ social:
   link: '#contact'  # For a direct email link, use "112dikshaverma@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/G
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/DikshaVv
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/112diksha-verma-93700b165/
 - icon: github
   icon_pack: fab
   link: https://github.com/zenithexpo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
