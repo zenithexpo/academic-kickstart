@@ -69,4 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello, I'm Diksha Verma, Computer Science Undergraduate (BTech) and an aspiring software developer. I really enjoy programming and learning new skills. Improving my competitve programming which helps me improving my problem solving ability. I spend much of the free time working on coding projects. I have experience working for a startups on machine learning projects. I'am interested in gaining experience in developer roles of any kind.  
+Hello World, My name is Diksha Verma, currently in the final year of BTech Computer Science and aspire to be a software developer. I really enjoy programming and learning new skills. I have experience working for startups on machine learning projects. I'm interested in gaining experience in developer roles of any kind.
+I also do competitive programming, which helps me improve my problem-solving skill. Also, I spend most of my free time working on coding projects, find in my portfolio below.
