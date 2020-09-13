@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello, I'm Diksha Verma, Computer Science Undergraduate (BTech) and an aspiring software developer. 
+Hello, I'm Diksha Verma, Computer Science Undergraduate (BTech) and an aspiring software developer. I really enjoy programming and learning new skills. Improving my competitve programming which helps me improving my problem solving ability. I spend much of the free time working on coding projects. I have experience working for a startups on machine learning projects. I'am interested in gaining experience in developer roles of any kind.  
