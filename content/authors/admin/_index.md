@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello, I'm Diksha Verma, final year BTech (Computer Science) student.
+Hello, I'm Diksha Verma, Computer Science Undergraduate (BTech) and an aspiring software developer. 
