@@ -14,7 +14,7 @@ role: Final-year BTech, Computer Science Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Shreemati Nathibai Damodar Thackersey Women's University, Mumbai.
+- name: UMIT | SNDT Women's University, Mumbai.
   url: "https://sndt.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,5 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hello World, My name is Diksha Verma, currently in the final year of BTech Computer Science and aspire to be a software developer. I really enjoy programming and learning new skills. I have experience working for startups on machine learning projects. I'm interested in gaining experience in developer roles of any kind.
-I also do competitive programming, which helps me improve my problem-solving skill. Also, I spend most of my free time working on coding projects, find in my portfolio below.
+Hello World, I'm Diksha Verma, final year BTech undergraduate in Computer Science & Technology. I'm a budding competitive programmer and aspire to be a Software Developer. I  enjoy building applications and learning new skills. Also, I have experience working for startups on machine learning and computer vision projects.
+
