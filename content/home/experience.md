@@ -30,12 +30,24 @@ such as target detection and path navigation.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Airtificial Intelligence Researcher"
+  company = "GSystems"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "remote"
+  date_start = "2019-08-22"
+  date_end = "2019-09-22"
+  description = """Designed and developed a model to summarize News Articles using the TextRank Algorithm.
+Also planned the layout of Python course for beginners""
+
+[[experience]]
+  title = "Machine Learning Intern"
+  company = "CereLabs"
+  company_url = "https://cerelabs.com/"
+  location = "Bhandup Mumbai"
+  date_start = "2019-06-27"
+  date_end = "2019-07-27"
+  description = """Wrote various python scripts to perform text data preprocessing using Natural Language Processing.
+· Trained a Machine learning model to classify Ophthalmology reports based on eye disorder and developed working desktop application in PyQt.
+· Conducted research on table extraction using genetic algorithm and CGAN""
 
 +++
