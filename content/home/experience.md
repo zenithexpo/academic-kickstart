@@ -21,15 +21,12 @@ date_format = "Jan 2006"
   title = "Computer Vision Intern"
   company = "Research & Development Engineers, DRDO"
   company_url = ""
-  location = "Pune, Maharashtra"
+  location = "Pune, Maharashtra India"
   date_start = "2019-12-17"
   date_end = "2020-01-17"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+On-site internship, learned and implemented various aspects of Image processing techniques in robotics
+such as target detection and path navigation.
   """
 
 [[experience]]
